@@ -1,2 +1,2 @@
-# Weather_App-Node.js
-Weather App by Node.js using Backend development
+# Notes_App-Node.js
+Notes App by Node.js using Backend development
